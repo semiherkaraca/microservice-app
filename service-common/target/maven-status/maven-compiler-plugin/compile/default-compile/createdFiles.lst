@@ -1,0 +1,5 @@
+com\haydikodlayalim\client\FeignConfig.class
+com\haydikodlayalim\contract\AccountDto.class
+com\haydikodlayalim\messaging\TicketNotification.class
+com\haydikodlayalim\client\AccountServiceClient.class
+com\haydikodlayalim\Main.class

@@ -1,0 +1,17 @@
+com\haydikodlayalim\ticketservice\dto\TicketDto.class
+com\haydikodlayalim\ticketservice\model\Ticket.class
+com\haydikodlayalim\ticketservice\service\TicketNotificationService.class
+com\haydikodlayalim\ticketservice\dto\TicketDto$TicketDtoBuilder.class
+com\haydikodlayalim\ticketservice\repository\TicketRepository.class
+com\haydikodlayalim\ticketservice\config\TicketConfiguration.class
+com\haydikodlayalim\ticketservice\repository\es\TicketElasticRepository.class
+com\haydikodlayalim\ticketservice\model\BaseEntityModel.class
+com\haydikodlayalim\ticketservice\model\es\TicketModel.class
+com\haydikodlayalim\ticketservice\model\es\TicketModel$TicketModelBuilder.class
+com\haydikodlayalim\ticketservice\service\TicketService.class
+com\haydikodlayalim\ticketservice\model\PriorityType.class
+com\haydikodlayalim\ticketservice\TicketApplication.class
+com\haydikodlayalim\ticketservice\service\impl\TicketNotificationServiceImpl.class
+com\haydikodlayalim\ticketservice\api\TicketApi.class
+com\haydikodlayalim\ticketservice\model\TicketStatus.class
+com\haydikodlayalim\ticketservice\service\impl\TicketServiceImpl.class
